@@ -1,0 +1,48 @@
+body {
+  background: rgb(255, 255, 255);
+}
+
+.reveal {
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+.reveal h1 {
+  text-transform: none;
+}
+
+.reveal h2 {
+  text-transform: none;
+}
+
+.reveal h3 {
+  text-transform: none;
+}
+
+.reveal section img {
+  background: unset;
+}
+
+.reveal table th, .reveal table td {
+  border-bottom: unset;
+}
+
+.reveal pre {
+  box-shadow: unset;
+}
+
+.reveal pre code {
+  max-height: unset;
+}
+
+.reveal a:hover img {
+  background: unset;
+  border-color: unset;
+  box-shadow: unset;
+}
+
+.greyscale {
+  -webkit-filter: grayscale(80%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(80%) invert(30%);;
+}
