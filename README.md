@@ -1,2 +1,3 @@
-# si-emea-2023
-si-emea-2023
+# ABAP & DevOps: Doing Everything Wrong
+
+SAPinsider EMEA 2023 Conference

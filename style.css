@@ -1,5 +1,10 @@
-body {
-  background: rgb(255, 255, 255);
+.reveal .slide-background {
+  background-color: rgb(239, 243, 249);
+
+  background-image: url('img/sapinsider.svg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right bottom;
 }
 
 .reveal {
@@ -8,16 +13,23 @@ body {
   font-weight: normal;
 }
 
+.slide-background-content {
+  border-radius: 30% 75% / 80%;
+}
+
 .reveal h1 {
   text-transform: none;
+  font-weight: bold;
 }
 
 .reveal h2 {
   text-transform: none;
+  font-weight: bold;
 }
 
 .reveal h3 {
   text-transform: none;
+  font-weight: bold;
 }
 
 .reveal section img {
