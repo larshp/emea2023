@@ -17,6 +17,10 @@
   border-radius: 30% 75% / 80%;
 }
 
+.reveal blockquote {
+  width: unset;
+}
+
 .reveal h1 {
   text-transform: none;
   font-weight: bold;
